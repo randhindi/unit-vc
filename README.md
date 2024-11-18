@@ -23,15 +23,15 @@ Email [Kyle](kyle@unit.vc) to talk!
 
 ## Portfolio
 ### Biotech / Medtech
-- Gilgamesh (psychedelics biotech)
-- Terran Biosciences (psychedelics biotech)
-- Mindstate Design Labs (AI + psychedelics biotech)
-- Chipiron (mini MRIs)
-- Tomorrow Biostasis (human cryopreservation)
-- Glycanage (longevity diagnostics)
-- Deciduous Therapeutics (senolytics biotech)
-- BE Therapeutics (brain tissue replacement)
-- Zero Club (longevity platform & testing)
+- **Gilgamesh**: psychedelics biotech
+- **Terran Biosciences**: psychedelics biotech
+- **Mindstate Design Labs**: AI + psychedelics biotech
+- **Chipiron**: mini MRIs
+- **Tomorrow Biostasis**: human cryopreservation
+- **Glycanage**: longevity diagnostics
+- **Deciduous Therapeutics**: senolytics biotech
+- **BE Therapeutics**: brain tissue replacement
+- **Zero Club**: longevity protocols platform
 
 ### Cryptography / Blockchain
 - DFNS (crypto wallet)
