@@ -3,11 +3,11 @@
 ## What we do
 We invest in early-stage deeptech companies solving a hard science or engineering problem. You can read more about it on our [blog](https://randhindi.substack.com).
 
-## What we invest in
-In the past we have invested in AI, cryptography, semiconductors, longevity and more. Right now, we are focusing on:
+We particularl like:
 - vertically integrated hardware-software solutions
 - cryptography (for blockchain or otherwise)
 - biotech (with a strong focus on longevity)
+
 Email [Kyle](mailto:kyle@unit.vc) to talk!
 
 ## Who we are
