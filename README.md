@@ -50,7 +50,8 @@ Email [Kyle](kyle@unit.vc) to talk!
 |                           | **Optimum**                 | Data availability layer                      |
 |                           | **Sentient**                | Decentralized AI                             |
 |                           | **Unisat**                  | Crypto wallet                                |
-| **Hardware**              | **C12 Quantum**             | Quantum computer                             |
+| **Hardware**              | **Akhetonics**              | Photonic AI accelerator                      |
+|                           | **C12 Quantum**             | Quantum computer                             |
 |                           | **Cornami**                 | FHE accelerator                              |
 |                           | **Corintis**                | High performance chip cooling                |
 |                           | **Fabric Cryptosystems**    | ZK + FHE accelerator                         |
