@@ -17,23 +17,21 @@ Email [Kyle](kyle@unit.vc) to talk!
 ## Performance
 - Investing since Q1 2020
 - 50k-250k tickets
-- 46 companies (1 dead, 3 exits, 19 uprounds)
+- 46 companies
 - 2.6 TVPI
 - 58% IRR
 
-## Portfolio
+
+## Some of our investments
 | **Category**              | **Company**                  | **Description**                              |
 |---------------------------|------------------------------|----------------------------------------------|
 | **AI**                    | **Attention**               | AI for sales                                 |
 |                           | **Brightside**              | LLM for cybersecurity                        |
 |                           | **Deepset**                 | LLM as a service                             |
-|                           | **Iteration X**             | AI project management                        |
-|                           | **Kinetix**                 | AI for games                                 |
 |                           | **Motif**                   | AI support                                   |
 |                           | **Parable**                 | AI time management                           |
 |                           | **Twin Labs**               | AI workflow automation                       |
 |                           | **Workflow AI**             | LLM pipeline manager                         |
-|                           | **Yumi**                    | AI influencer clones                         |
 | **Biotech / Medtech**     | **BE Therapeutics**         | Brain tissue replacement                     |
 |                           | **Chipiron**                | Mini MRIs                                    |
 |                           | **Deciduous Therapeutics**  | Senolytics biotech                           |
@@ -43,11 +41,7 @@ Email [Kyle](kyle@unit.vc) to talk!
 |                           | **Terran Biosciences**      | Psychedelics biotech                         |
 |                           | **Tomorrow Biostasis**      | Human cryopreservation                       |
 |                           | **Zero Club**               | Longevity protocols platform                 |
-| **Cryptography / Blockchain** | **AI Layer**            | Decentralized AI                             |
-|                           | **Argent**                  | Crypto wallet                                |
-|                           | **DLP Labs**                | Onchain data marketplaces                    |
-|                           | **DFNS**                    | Crypto wallet                                |
-|                           | **Eternis**                 | Onchain identity                             |
+| **Cryptography / Blockchain**| **Argent**                  | Crypto wallet                                |
 |                           | **Fhenix**                  | FHE rollups                                  |
 |                           | **Fractal Bitcoin**         | Bitcoin L2                                   |
 |                           | **Giza**                    | zkML                                         |
@@ -62,8 +56,7 @@ Email [Kyle](kyle@unit.vc) to talk!
 |                           | **Fabric Cryptosystems**    | ZK + FHE accelerator                         |
 | **Network State**         | **Praxis**                  | Network state                                |
 |                           | **Vitalia**                 | Longevity network state                      |
-| **Other**                 | **Gouach**                  | Repairable batteries                         |
-|                           | **Interstellar Lab**        | Space farms                                  |
+| **Other**                 | **Interstellar Lab**        | Space farms                                  |
 |                           | **Marathon Fusion**         | Fusion infrastructure                        |
 
 
