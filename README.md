@@ -22,56 +22,48 @@ Email [Kyle](kyle@unit.vc) to talk!
 - 58% IRR
 
 ## Portfolio
-### Biotech / Medtech
-- **Gilgamesh**: psychedelics biotech
-- **Terran Biosciences**: psychedelics biotech
-- **Mindstate Design Labs**: AI + psychedelics biotech
-- **Chipiron**: mini MRIs
-- **Tomorrow Biostasis**: human cryopreservation
-- **Glycanage**: longevity diagnostics
-- **Deciduous Therapeutics**: senolytics biotech
-- **BE Therapeutics**: brain tissue replacement
-- **Zero Club**: longevity protocols platform
+| **Category**              | **Company**                  | **Description**                              |
+|---------------------------|------------------------------|----------------------------------------------|
+| **AI**                    | **Attention**               | AI for sales                                 |
+|                           | **Brightside**              | LLM for cybersecurity                        |
+|                           | **Deepset**                 | LLM as a service                             |
+|                           | **Iteration X**             | AI project management                        |
+|                           | **Kinetix**                 | AI for games                                 |
+|                           | **Motif**                   | AI support                                   |
+|                           | **Parable**                 | AI time management                           |
+|                           | **Twin Labs**               | AI workflow automation                       |
+|                           | **Workflow AI**             | LLM pipeline manager                         |
+|                           | **Yumi**                    | AI influencer clones                         |
+| **Biotech / Medtech**     | **BE Therapeutics**         | Brain tissue replacement                     |
+|                           | **Chipiron**                | Mini MRIs                                    |
+|                           | **Deciduous Therapeutics**  | Senolytics biotech                           |
+|                           | **Gilgamesh**               | Psychedelics biotech                         |
+|                           | **Glycanage**               | Longevity diagnostics                        |
+|                           | **Mindstate Design Labs**   | AI + psychedelics biotech                    |
+|                           | **Terran Biosciences**      | Psychedelics biotech                         |
+|                           | **Tomorrow Biostasis**      | Human cryopreservation                       |
+|                           | **Zero Club**               | Longevity protocols platform                 |
+| **Cryptography / Blockchain** | **AI Layer**            | Decentralized AI                             |
+|                           | **Argent**                  | Crypto wallet                                |
+|                           | **DLP Labs**                | Onchain data marketplaces                    |
+|                           | **DFNS**                    | Crypto wallet                                |
+|                           | **Eternis**                 | Onchain identity                             |
+|                           | **Fhenix**                  | FHE rollups                                  |
+|                           | **Fractal Bitcoin**         | Bitcoin L2                                   |
+|                           | **Giza**                    | zkML                                         |
+|                           | **Kakarot**                 | zkEVM L2                                     |
+|                           | **Modulus Labs**            | zkML                                         |
+|                           | **Optimum**                 | Data availability layer                      |
+|                           | **Sentient**                | Decentralized AI                             |
+|                           | **Unisat**                  | Crypto wallet                                |
+| **Hardware**              | **C12 Quantum**             | Quantum computer                             |
+|                           | **Cornami**                 | FHE accelerator                              |
+|                           | **Corintis**                | High performance chip cooling                |
+|                           | **Fabric Cryptosystems**    | ZK + FHE accelerator                         |
+| **Network State**         | **Praxis**                  | Network state                                |
+|                           | **Vitalia**                 | Longevity network state                      |
+| **Other**                 | **Gouach**                  | Repairable batteries                         |
+|                           | **Interstellar Lab**        | Space farms                                  |
+|                           | **Marathon Fusion**         | Fusion infrastructure                        |
 
-### Cryptography / Blockchain
-- DFNS (crypto wallet)
-- Argent (crypto wallet)
-- Kakarot (zkEVM L2)
-- Fractal Bitcoin (Bitcoin L2)
-- Giza (zkML)
-- Modulus Labs (zkML)
-- Fhenix (FHE rollups)
-- Unisat (crypto wallet)
-- Eternis (onchain identity)
-- AI Layer (decentralized AI)
-- Sentient (decentralized AI)
-- Optimum (data availability layer)
-- DLP Labs (onchain data marketplaces)
-
-### AI
-- Motif (AI support)
-- Deepset (LLM as a service)
-- Iteration X (AI project management)
-- Attention (AI for sales)
-- Kinetix (AI for games)
-- Brightside (LLM for cybersecurity)
-- Twin Labs (AI workflow automation)
-- Yumi (AI influencer clones)
-- Parable (AI time management)
-- Workflow AI (LLM pipeline manager)
-
-### Hardware
-- C12 Quantum (quantum computer)
-- Cornami (FHE accelerator)
-- Corintis (high performance chip cooling)
-- Fabric Cryptosystems (ZK + FHE accelerator)
-
-## Network State
-- Vitalia (longevity network state)
-- Praxis (network state)
-
-### Other
-- Interstellar Lab (space farms)
-- Gouach (repairable batteries)
-- Marathon Fusion (fusion infrastucture)
 
