@@ -17,58 +17,61 @@ Email [Kyle](kyle@unit.vc) to talk!
 ## Performance
 - Investing since Q1 2020
 - 50k-250k tickets
-- 45 companies (1 dead, 3 exits, 19 uprounds)
+- 46 companies (1 dead, 3 exits, 19 uprounds)
 - 2.6 TVPI
 - 58% IRR
 
-## Some of the companies we invested in
+## Portfolio
 ### Biotech / Medtech
-- Gilgamesh
-- Terran Biosciences
-- Mindstate Design Labs
-- Chipiron
-- Tomorrow Biostasis
-- Glycanage
-- Deciduous Therapeutics
-- BE Therapeutics
-- Vitalia
-- Zero Club
+- Gilgamesh (psychedelics biotech)
+- Terran Biosciences (psychedelics biotech)
+- Mindstate Design Labs (AI + psychedelics biotech)
+- Chipiron (mini MRIs)
+- Tomorrow Biostasis (human cryopreservation)
+- Glycanage (longevity diagnostics)
+- Deciduous Therapeutics (senolytics biotech)
+- BE Therapeutics (brain tissue replacement)
+- Zero Club (longevity platform & testing)
 
 ### Cryptography / Blockchain
-- DFNS
-- Argent
-- Kakarot
-- Fractal Bitcoin
-- Giza
-- Modulus Labs
-- Fhenix
-- Unisat
-- Eternis
-- AI Layer
-- Sentient
-- Optimum
-- DLP Labs
+- DFNS (crypto wallet)
+- Argent (crypto wallet)
+- Kakarot (zkEVM L2)
+- Fractal Bitcoin (Bitcoin L2)
+- Giza (zkML)
+- Modulus Labs (zkML)
+- Fhenix (FHE rollups)
+- Unisat (crypto wallet)
+- Eternis (onchain identity)
+- AI Layer (decentralized AI)
+- Sentient (decentralized AI)
+- Optimum (data availability layer)
+- DLP Labs (onchain data marketplaces)
 
 ### AI
-- Motif
-- Deepset
-- Iteration X
-- Attention
-- Kinetix
-- Brightside
-- Twin Labs
-- Yumi
-- Parable
-- Workflow AI
+- Motif (AI support)
+- Deepset (LLM as a service)
+- Iteration X (AI project management)
+- Attention (AI for sales)
+- Kinetix (AI for games)
+- Brightside (LLM for cybersecurity)
+- Twin Labs (AI workflow automation)
+- Yumi (AI influencer clones)
+- Parable (AI time management)
+- Workflow AI (LLM pipeline manager)
 
 ### Hardware
-- C12 Quantum
-- Cornami
-- Corintis
-- Fabric Cryptosystems
+- C12 Quantum (quantum computer)
+- Cornami (FHE accelerator)
+- Corintis (high performance chip cooling)
+- Fabric Cryptosystems (ZK + FHE accelerator)
+
+## Network State
+- Vitalia (longevity network state)
+- Praxis (network state)
 
 ### Other
-- Interstellar Lab
-- Gouach
-- Marathon Fusion
+- Interstellar Lab (space farms)
+- Gouach (repairable batteries)
+- Marathon Fusion (fusion infrastucture)
 
