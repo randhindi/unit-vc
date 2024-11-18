@@ -50,14 +50,14 @@ Email [Kyle](kyle@unit.vc) to talk!
 |                           | **Optimum**                 | Data availability layer                      |
 |                           | **Sentient**                | Decentralized AI                             |
 |                           | **Unisat**                  | Crypto wallet                                |
-| **Hardware**              | **Akhetonics**              | Photonic AI accelerator                      |
+| **Semiconductors**        | **Akhetonics**              | Photonic AI accelerator                      |
 |                           | **C12 Quantum**             | Quantum computer                             |
 |                           | **Cornami**                 | FHE accelerator                              |
 |                           | **Corintis**                | High performance chip cooling                |
 |                           | **Fabric Cryptosystems**    | ZK + FHE accelerator                         |
-| **Network State**         | **Praxis**                  | Network state                                |
-|                           | **Vitalia**                 | Longevity network state                      |
 | **Other**                 | **Interstellar Lab**        | Space farms                                  |
 |                           | **Marathon Fusion**         | Fusion infrastructure                        |
+|                           | **Praxis**                  | Network state                                |
+|                           | **Vitalia**                 | Longevity network state                      |
 
 
