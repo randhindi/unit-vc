@@ -17,7 +17,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 ## Performance
 - Investing since 2020
 - 50k-250k tickets
-- 46 companies
+- 45 companies
 - 2.6 TVPI
 - 58% IRR
 
@@ -41,12 +41,12 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Terran Biosciences**      | Psychedelics biotech                         |
 |                           | **Tomorrow Biostasis**      | Human cryopreservation                       |
 |                           | **Zero Club**               | Longevity protocols platform                 |
-| **Cryptography / Blockchain**| **Argent**                  | Crypto wallet                                |
+| **Cryptography / Blockchain**| **Argent**               | Crypto wallet                                |
 |                           | **Fhenix**                  | FHE rollups                                  |
-|                           | **Fractal Bitcoin**         | Bitcoin L2                                   |
+|                           | **Fractal Bitcoin** (listed)| Bitcoin L2                                   |
 |                           | **Giza**                    | zkML                                         |
 |                           | **Kakarot**                 | zkEVM L2                                     |
-|                           | **Modulus Labs**            | zkML                                         |
+|                           | **Modulus Labs** (acquired) | zkML                                         |
 |                           | **Optimum**                 | Data availability layer                      |
 |                           | **Sentient**                | Decentralized AI                             |
 |                           | **Unisat**                  | Crypto wallet                                |
