@@ -17,10 +17,9 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 ## Performance
 - Investing since 2020
 - 50k-250k tickets
-- 45 companies
-- 2.6 TVPI
-- 58% IRR
-
+- 49 companies
+- 2.3 TVPI
+- 48% IRR
 
 ## Some of our investments
 | **Category**              | **Company**                  | **Description**                              |
