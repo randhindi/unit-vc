@@ -19,7 +19,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 - 50k-250k tickets
 - 49 companies
 - 2.3 TVPI
-- 48% IRR
+- 46% IRR
 
 ## Some of our investments
 | **Category**              | **Company**                  | **Description**                              |
