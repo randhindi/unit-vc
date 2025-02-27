@@ -32,6 +32,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Twin Labs**               | AI workflow automation                       |
 |                           | **Workflow AI**             | LLM pipeline manager                         |
 | **Biotech / Medtech**     | **BE Therapeutics**         | Brain tissue replacement                     |
+|                           | **Brink Therapeutics**      | Recombinase gene editing                     |
 |                           | **Chipiron**                | Mini MRIs                                    |
 |                           | **Deciduous Therapeutics**  | Senolytics biotech                           |
 |                           | **Gilgamesh**               | Psychedelics biotech                         |
