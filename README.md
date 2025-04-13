@@ -17,9 +17,9 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 ## Performance
 - Investing since 2020
 - 50k-250k tickets
-- 49 companies
-- 2.3 TVPI
-- 46% IRR
+- 53 companies
+- 2.2 TVPI
+- 43% IRR
 
 ## Some of our investments
 | **Category**              | **Company**                  | **Description**                              |
@@ -46,18 +46,22 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Fractal Bitcoin** (listed)| Bitcoin L2                                   |
 |                           | **Giza**                    | zkML                                         |
 |                           | **Kakarot**                 | zkEVM L2                                     |
+|                           | **LIT Protocol**            | Decentralized secrets management             |
 |                           | **Modulus Labs** (acquired) | zkML                                         |
 |                           | **Optimum**                 | Data availability layer                      |
 |                           | **Sentient**                | Decentralized AI                             |
+|                           | **Space Coin**              | TEEs in space                                |
 |                           | **Unisat**                  | Crypto wallet                                |
 | **Semiconductors**        | **Akhetonics**              | Photonic AI accelerator                      |
 |                           | **C12 Quantum**             | Quantum computer                             |
-|                           | **Cornami**                 | FHE accelerator                              |
 |                           | **Corintis**                | High performance chip cooling                |
+|                           | **Cornami**                 | FHE accelerator                              |
 |                           | **Fabric Cryptosystems**    | ZK + FHE accelerator                         |
-| **Other**                 | **Interstellar Lab**        | Space farms                                  |
-|                           | **Marathon Fusion**         | Fusion infrastructure                        |
+| **Network States**        | **Interstellar Lab**        | Space farms                                  |
 |                           | **Praxis**                  | Network state                                |
 |                           | **Vitalia**                 | Longevity network state                      |
+|                           | **Civic Stack**             | Network state OS                             |
+| **Other**                 | **Interstellar Lab**        | Space farms                                  |
+|                           | **Marathon Fusion**         | Fusion infrastructure                        |
 
 
