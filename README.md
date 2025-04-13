@@ -57,8 +57,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Corintis**                | High performance chip cooling                |
 |                           | **Cornami**                 | FHE accelerator                              |
 |                           | **Fabric Cryptosystems**    | ZK + FHE accelerator                         |
-| **Network States**        | **Interstellar Lab**        | Space farms                                  |
-|                           | **Praxis**                  | Network state                                |
+| **Network States**        | **Praxis**                  | Network state                                |
 |                           | **Vitalia**                 | Longevity network state                      |
 |                           | **Civic Stack**             | Network state OS                             |
 | **Other**                 | **Interstellar Lab**        | Space farms                                  |
