@@ -11,7 +11,7 @@ We particularly like:
 Email [Kyle](mailto:kyle@unit.vc) to talk!
 
 ## Who we are
-- [Rand Hindi](https://x.com/randhindi), CEO @ Zama (FHE company, raised $100m). Previously CEO @ Snips (AI company acquired by Sonos). PhD in Bioinformatics @ UCL.
+- [Rand Hindi](https://x.com/randhindi), CEO @ Zama (Cryptography company, raised $150m). Previously CEO @ Snips (AI company acquired by Sonos). PhD in Bioinformatics @ UCL.
 - [Kyle O'Brien](https://x.com/RoiStartup), CoS/Corp Dev @ Zama, worked at multiple deep tech startups before.
 
 ## Performance
