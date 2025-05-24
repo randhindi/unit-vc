@@ -17,7 +17,6 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 ## Performance
 - Investing since 2020
 - 50k-250k tickets
-- 53 companies
 - 2.2 TVPI
 - 43% IRR
 
@@ -35,6 +34,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Brink Therapeutics**      | Recombinase gene editing                     |
 |                           | **Chipiron**                | Mini MRIs                                    |
 |                           | **Deciduous Therapeutics**  | Senolytics biotech                           |
+|                           | **Enhanced Games**          | Biotech-enhanced sports events               |
 |                           | **Gilgamesh**               | Psychedelics biotech                         |
 |                           | **Glycanage**               | Longevity diagnostics                        |
 |                           | **Mindstate Design Labs**   | AI + psychedelics biotech                    |
@@ -60,6 +60,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 | **Network States**        | **Praxis**                  | Network state                                |
 |                           | **Vitalia**                 | Longevity network state                      |
 |                           | **Civic Stack**             | Network state OS                             |
+|                           | **Onchain Cities**          | Network state OS                             |
 | **Other**                 | **Interstellar Lab**        | Space farms                                  |
 |                           | **Marathon Fusion**         | Fusion infrastructure                        |
 
