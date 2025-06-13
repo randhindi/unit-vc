@@ -26,6 +26,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 | **AI**                    | **Attention**               | AI for sales                                 |
 |                           | **Brightside**              | LLM for cybersecurity                        |
 |                           | **Deepset**                 | LLM as a service                             |
+|                           | **Karavela**                | Foundation model for the brain               |
 |                           | **Motif**                   | AI support                                   |
 |                           | **Parable**                 | AI time management                           |
 |                           | **Twin Labs**               | AI workflow automation                       |
@@ -37,10 +38,11 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Enhanced Games**          | Biotech-enhanced sports events               |
 |                           | **Gilgamesh**               | Psychedelics biotech                         |
 |                           | **Glycanage**               | Longevity diagnostics                        |
+|                           | **Kangaroo Bio**            | Artificial womb                              |
+|                           | **Lucis**                   | Longevity platform                           |
 |                           | **Mindstate Design Labs**   | AI + psychedelics biotech                    |
 |                           | **Terran Biosciences**      | Psychedelics biotech                         |
 |                           | **Tomorrow Biostasis**      | Human cryopreservation                       |
-|                           | **Zero Club**               | Longevity protocols platform                 |
 | **Cryptography / Blockchain**| **Argent**               | Crypto wallet                                |
 |                           | **Fhenix**                  | FHE rollups                                  |
 |                           | **Fractal Bitcoin** (listed)| Bitcoin L2                                   |
@@ -57,10 +59,11 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Corintis**                | High performance chip cooling                |
 |                           | **Cornami**                 | FHE accelerator                              |
 |                           | **Fabric Cryptosystems**    | ZK + FHE accelerator                         |
-| **Network States**        | **Praxis**                  | Network state                                |
-|                           | **Vitalia**                 | Longevity network state                      |
+| **Network States**        | **Chateaushi**              | Onchain real estate network                  |
 |                           | **Civic Stack**             | Network state OS                             |
 |                           | **Onchain Cities**          | Network state OS                             |
+|                           | **Praxis**                  | Network state                                |
+|                           | **Vitalia**                 | Longevity network state                      |
 | **Other**                 | **Interstellar Lab**        | Space farms                                  |
 |                           | **Marathon Fusion**         | Fusion infrastructure                        |
 
