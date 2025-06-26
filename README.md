@@ -43,7 +43,8 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Mindstate Design Labs**   | AI + psychedelics biotech                    |
 |                           | **Terran Biosciences**      | Psychedelics biotech                         |
 |                           | **Tomorrow Biostasis**      | Human cryopreservation                       |
-| **Cryptography / Blockchain**| **Argent**               | Crypto wallet                                |
+| **Cryptography / Blockchain**| **Argent / Ready**       | Self-custodial bank                          |
+|                           | **Bron**                    | Ultra secure MPC wallet                      |
 |                           | **Fhenix**                  | FHE rollups                                  |
 |                           | **Fractal Bitcoin** (listed)| Bitcoin L2                                   |
 |                           | **Giza**                    | zkML                                         |
