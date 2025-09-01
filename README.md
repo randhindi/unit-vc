@@ -47,7 +47,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Bron**                    | Ultra secure MPC wallet                      |
 |                           | **Fhenix**                  | FHE rollups                                  |
 |                           | **Fractal Bitcoin** (listed)| Bitcoin L2                                   |
-|                           | **Giza (listed)**           | zkML                                         |
+|                           | **Giza** (listed)           | zkML                                         |
 |                           | **Kakarot**                 | zkEVM L2                                     |
 |                           | **LIT Protocol**            | Decentralized secrets management             |
 |                           | **Modulus Labs** (acquired) | zkML                                         |
