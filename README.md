@@ -36,7 +36,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Chipiron**                | Mini MRIs                                    |
 |                           | **Deciduous Therapeutics**  | Senolytics biotech                           |
 |                           | **Enhanced Games**          | Biotech-enhanced sports events               |
-|                           | **Gilgamesh (acquired)**               | Psychedelics biotech                         |
+|                           | **Gilgamesh** (acquired)    | Psychedelics biotech                         |
 |                           | **Glycanage**               | Longevity diagnostics                        |
 |                           | **Kangaroo Bio**            | Artificial womb                              |
 |                           | **Lucis**                   | Longevity platform                           |
