@@ -49,7 +49,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Fractal Bitcoin**         | Bitcoin L2                                   | Token listed ($FB)          |
 |                           | **Giza**                    | zkML                                         | Token listed ($GIZA)        |
 |                           | **Kakarot**                 | zkEVM L2                                     |                             |
-|                           | **LIT Protocol**            | Decentralized secrets management             |                             |
+|                           | **LIT Protocol**            | Decentralized secrets management             | Token listed ($LITKEY)      | 
 |                           | **Modulus Labs**            | zkML                                         | Acquired by Worldcoin       |
 |                           | **Optimum**                 | Data availability layer                      |                             |
 |                           | **Sentient**                | Decentralized AI                             |                             |
