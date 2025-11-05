@@ -12,16 +12,16 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 
 ## Who we are
 - [Rand Hindi](https://x.com/randhindi), CEO @ Zama (Cryptography unicorn, raised $150m at $1b+ valuation). Previously CEO @ Snips (AI company acquired by Sonos). PhD in Bioinformatics @ UCL.
-- [Kyle O'Brien](https://x.com/RoiStartup), CoS/Corp Dev @ Zama, worked at multiple deep tech startups before.
+- [Kyle O'Brien](https://x.com/RoiStartup), VP Corp Dev @ Zama, host of the [Stage Change](https://x.com/JoinStateChange) podcast. Serial deeptech operator.
 
 ## Performance
 - Investing since 2020
 - 50k-250k tickets
-- 2.2 TVPI
-- 43% IRR
+- 3x TVPI
+- 64% IRR
 
 ## Some of our investments
-| **Category**              | **Company**                 | **Description**                              | **Exit**                 |
+| **Category**              | **Company**                 | **Description**                              | **Exit**                    |
 |---------------------------|-----------------------------|----------------------------------------------|-----------------------------|                                          
 | **AI**                    | **Attention**               | AI for sales                                 |                             |
 |                           | **Brightside**              | LLM for cybersecurity                        |                             |
@@ -67,6 +67,5 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Vitalia**                 | Longevity network state                      |                             |
 | **Other**                 | **Interstellar Lab**        | Space farms                                  |                             |
 |                           | **Marathon Fusion**         | Fusion infrastructure                        |                             |
-|---------------------------|-----------------------------|----------------------------------------------|-----------------------------|
 
 
