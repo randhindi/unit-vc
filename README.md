@@ -8,6 +8,8 @@ We particularly like:
 - cryptography (for blockchain or otherwise)
 - biotech (with a strong focus on longevity)
 
+Ticket size $50k-$250k. We like to reinvest in the next rounds too.
+
 Email [Kyle](mailto:kyle@unit.vc) to talk!
 
 ## Who we are
@@ -15,13 +17,19 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 - [Kyle O'Brien](https://x.com/analog_kyle), VP Corp Dev @ Zama, host of the [Stage Change](https://x.com/JoinStateChange) podcast. Serial deeptech operator.
 
 ## Performance
-- Investing since 2020
-- 50k-250k tickets
-- 3x TVPI
-- 64% IRR
+Here is the performance to date (updated quarterly). We only add to DPI when we sell our position (i.e. a token or stock can be listed, as long as we didn't sell our position we don't add it to DPI).
+| **Year**  | **TVPI**  | **DPI**  | **IRR**  |
+| All       |  3.0x     | 0.8x     | 66%      |
+| 2020      |  15.4x    | 11.7x    | 79%      |
+| 2021      |  2.0x     | 0x       | 20%      |
+| 2022      |  4.3x     | 0x       | 87%      |
+| 2023      |  2.9x     | 0.2x     | 90%      |
+| 2024      |  1.5x     | 0.1x     | 43%      |
+| 2025      |  1.9x     | 0x       | 322%     |
+
 
 ## Some of our investments
-| **Category**              | **Company**                 | **Description**                              | **Exit**                    |
+| **Category**              | **Company**                 | **Description**                              | **Comments**                |
 |---------------------------|-----------------------------|----------------------------------------------|-----------------------------|                                          
 | **AI**                    | **Attention**               | AI for sales                                 |                             |
 |                           | **Brightside**              | LLM for cybersecurity                        |                             |
@@ -48,7 +56,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 |                           | **Fhenix**                  | FHE rollups                                  |                             |
 |                           | **Fractal Bitcoin**         | Bitcoin L2                                   | Token listed ($FB)          |
 |                           | **Giza**                    | zkML                                         | Token listed ($GIZA)        |
-|                           | **Kakarot**                 | zkEVM L2                                     |                             |
+|                           | **Kakarot**                 | zkEVM L2                                     | Acquired by Zama            |
 |                           | **LIT Protocol**            | Decentralized secrets management             | Token listed ($LITKEY)      | 
 |                           | **Modulus Labs**            | zkML                                         | Acquired by Worldcoin       |
 |                           | **Optimum**                 | Data availability layer                      |                             |
