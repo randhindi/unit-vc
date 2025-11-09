@@ -18,15 +18,15 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 
 ## Performance
 Here is the performance to date (updated quarterly). We only add to DPI when we sell our position for fiat. If a token or stock is listed, but we keep our position, we count it in the TVPI.
-| **Year**  | **TVPI**  | **DPI**  | **IRR**  |
-|-----------|-----------|----------|----------|
-| 2020      |  15.4x    | 11.7x    | 79%      |
-| 2021      |  2.0x     | 0x       | 20%      |
-| 2022      |  4.3x     | 0x       | 87%      |
-| 2023      |  2.9x     | 0.2x     | 90%      |
-| 2024      |  1.5x     | 0.1x     | 43%      |
-| 2025      |  1.9x     | 0x       | 322%     |
-| **All**   |  **3.0x** | **0.8x** | **66%**  |
+| **Year**  | **DPI**  | **TVPI** | **IRR**  |
+|-----------|----------|----------|----------|
+| 2020      |  11.7x   | 15.4x    | 79%      |
+| 2021      |  0x      | 2x       | 20%      |
+| 2022      |  0x      | 4.3x     | 87%      |
+| 2023      |  0.2x    | 2.9x     | 90%      |
+| 2024      |  0.1x    | 1.5x     | 43%      |
+| 2025      |  0x      | 1.9x     | 322%     |
+| **All**   |  **0.8x**| **3x**   | **66%**  |
 
 
 ## Some of our investments
