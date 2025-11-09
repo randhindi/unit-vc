@@ -19,6 +19,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 ## Performance
 Here is the performance to date (updated quarterly). We only add to DPI when we sell our position (i.e. a token or stock can be listed, as long as we didn't sell our position we don't add it to DPI).
 | **Year**  | **TVPI**  | **DPI**  | **IRR**  |
+|-----------|-----------|----------|----------|
 | All       |  3.0x     | 0.8x     | 66%      |
 | 2020      |  15.4x    | 11.7x    | 79%      |
 | 2021      |  2.0x     | 0x       | 20%      |
