@@ -17,7 +17,7 @@ Email [Kyle](mailto:kyle@unit.vc) to talk!
 - [Kyle O'Brien](https://x.com/analog_kyle), VP Corp Dev @ Zama, host of the [Stage Change](https://x.com/JoinStateChange) podcast. Serial deeptech operator.
 
 ## Performance
-Here is the performance to date (updated quarterly). We only add to DPI when we sell our position for fiat. If a token or stock is listed, but we keep our position, we count it in the TVPI.
+Here is the performance to date. We only add to DPI when we sell our position for fiat. If a token or stock is listed, but we keep our position, we count it in the TVPI.
 | **Year**  | **DPI**  | **TVPI** | **IRR**  |
 |-----------|----------|----------|----------|
 | 2020      |  11.7x   | 15.4x    | 79%      |
