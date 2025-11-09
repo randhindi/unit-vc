@@ -26,7 +26,6 @@ Here is the performance to date (updated quarterly). We only add to DPI when we 
 | 2023      |  2.9x     | 0.2x     | 90%      |
 | 2024      |  1.5x     | 0.1x     | 43%      |
 | 2025      |  1.9x     | 0x       | 322%     |
-|---------------------------------------------|
 | **All**   |  **3.0x** | **0.8x** | **66%**  |
 
 
