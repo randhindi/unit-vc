@@ -30,7 +30,7 @@ Here is the performance to date. We only add to DPI when we sell our position fo
 
 
 ## Some of our investments
-| **Category**              | **Company**                 | **Description**                              | **Comments**                |
+| **Category**              | **Company**                 | **Description**                              | **Exit**                    |
 |---------------------------|-----------------------------|----------------------------------------------|-----------------------------|                                          
 | **AI**                    | **Attention**               | AI for sales                                 |                             |
 |                           | **Blockfusion**             | AI datacenters powered by clean energy       |                             |
