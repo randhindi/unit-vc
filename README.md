@@ -33,6 +33,7 @@ Here is the performance to date. We only add to DPI when we sell our position fo
 | **Category**              | **Company**                 | **Description**                              | **Comments**                |
 |---------------------------|-----------------------------|----------------------------------------------|-----------------------------|                                          
 | **AI**                    | **Attention**               | AI for sales                                 |                             |
+|                           | **Blockfusion**             | AI datacenters powered by clean energy       |                             |
 |                           | **Brightside**              | LLM for cybersecurity                        |                             |
 |                           | **Deepset**                 | LLM as a service                             |                             |
 |                           | **Karavela**                | Foundation model for the brain               |                             |
@@ -62,7 +63,7 @@ Here is the performance to date. We only add to DPI when we sell our position fo
 |                           | **Modulus Labs**            | zkML                                         | Acquired by Worldcoin       |
 |                           | **Optimum**                 | Data availability layer                      |                             |
 |                           | **Sentient**                | Decentralized AI                             |                             |
-|                           | **Space Coin**              | TEEs in space                                |                             |
+|                           | **Space Computer**          | TEEs in space                                |                             |
 |                           | **Unisat**                  | Crypto wallet                                |                             |
 | **Semiconductors**        | **Akhetonics**              | Photonic AI accelerator                      |                             |
 |                           | **C12 Quantum**             | Quantum computer                             |                             |
