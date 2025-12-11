@@ -54,7 +54,7 @@ Here is the performance to date. We only add to DPI when we sell our position fo
 |                           | **Terran Biosciences**      | Psychedelics biotech                         |                             |
 |                           | **Tomorrow Biostasis**      | Human cryopreservation                       |                             |
 | **Cryptography / Blockchain**| **Argent / Ready**       | Self-custodial bank                          |                             |
-|                           | **Bron**                    | Ultra secure MPC wallet                      |                             |
+|                           | **Bron**                    | Ultra secure MPC wallet                      | Token listed ($BRON)        |
 |                           | **Fhenix**                  | FHE rollups                                  |                             |
 |                           | **Fractal Bitcoin**         | Bitcoin L2                                   | Token listed ($FB)          |
 |                           | **Giza**                    | zkML                                         | Token listed ($GIZA)        |
