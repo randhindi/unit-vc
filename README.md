@@ -55,7 +55,7 @@ Here is the performance to date. We only add to DPI when we sell our position fo
 |                           | **Tomorrow Biostasis**      | Human cryopreservation                       |                             |
 | **Cryptography / Blockchain**| **Argent / Ready**       | Self-custodial bank                          |                             |
 |                           | **Bron**                    | Ultra secure MPC wallet                      | Token listed ($BRON)        |
-|                           | **Fhenix**                  | FHE rollups                                  |                             |
+|                           | **Fhenix**                  | FHE coprocessors                             |                             |
 |                           | **Fractal Bitcoin**         | Bitcoin L2                                   | Token listed ($FB)          |
 |                           | **Giza**                    | zkML                                         | Token listed ($GIZA)        |
 |                           | **Kakarot**                 | zkEVM L2                                     | Acquired by Zama            |
