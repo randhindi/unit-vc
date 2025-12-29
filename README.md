@@ -40,7 +40,6 @@ Here is the performance to date. We only add to DPI when we sell our position fo
 |                           | **Motif**                   | AI support                                   |                             |
 |                           | **Parable**                 | AI time management                           |                             |
 |                           | **Twin Labs**               | AI workflow automation                       |                             |
-|                           | **Workflow AI**             | LLM pipeline manager                         |                             |
 | **Biotech / Medtech**     | **BE Therapeutics**         | Brain tissue replacement                     |                             |
 |                           | **Brink Therapeutics**      | Recombinase gene editing                     |                             |
 |                           | **Chipiron**                | Mini MRIs                                    |                             |
@@ -58,8 +57,7 @@ Here is the performance to date. We only add to DPI when we sell our position fo
 |                           | **Fhenix**                  | FHE coprocessors                             |                             |
 |                           | **Fractal Bitcoin**         | Bitcoin L2                                   | Token listed ($FB)          |
 |                           | **Giza**                    | zkML                                         | Token listed ($GIZA)        |
-|                           | **Kakarot**                 | zkEVM L2                                     | Acquired by Zama            |
-|                           | **LIT Protocol**            | Decentralized secrets management             | Token listed ($LITKEY)      | 
+|                           | **Kakarot**                 | zkEVM L2                                     | Acquired by Zama            | 
 |                           | **Modulus Labs**            | zkML                                         | Acquired by Worldcoin       |
 |                           | **Optimum**                 | Data availability layer                      |                             |
 |                           | **Sentient**                | Decentralized AI                             |                             |
