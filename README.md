@@ -29,6 +29,7 @@ Here is the performance to date. We only add to DPI when we sell our position fo
 | **All**   | **0.7x**| **2.9x** | **61%**  |
 
 Deals: 61
+
 Exits: 12 (5 wins / 7 busts)
 
 ## Some of our investments
