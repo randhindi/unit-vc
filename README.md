@@ -50,7 +50,8 @@ Deals: 61 - Exits: 12 (5 wins / 7 busts)
 |                           | **Glycanage**               | Longevity diagnostics                        |                             |
 |                           | **Kangaroo Bio**            | Artificial womb                              |                             |
 |                           | **Lucis**                   | Longevity platform                           |                             |
-|                           | **Mindstate Design Labs**   | AI + psychedelics biotech                    |                             |
+|                           | **Mindstate Design Labs**   | Biotech that programs emotions in humans     |                             |
+|                           | **Origin Genomics**         | Personalized gene therapy                    |                             |
 |                           | **Terran Biosciences**      | Psychedelics biotech                         |                             |
 |                           | **Tomorrow Biostasis**      | Human cryopreservation                       |                             |
 | **Cryptography / Blockchain**| **Argent / Ready**       | Self-custodial bank                          |                             |
@@ -61,7 +62,7 @@ Deals: 61 - Exits: 12 (5 wins / 7 busts)
 |                           | **Kakarot**                 | zkEVM L2                                     | Acquired by Zama            | 
 |                           | **Modulus Labs**            | zkML                                         | Acquired by Worldcoin       |
 |                           | **Optimum**                 | Data availability layer                      |                             |
-|                           | **Sentient**                | Decentralized AI                             |                             |
+|                           | **Sentient**                | Decentralized AI                             | Token listed ($SENT)        |
 |                           | **Space Computer**          | TEEs in space                                |                             |
 |                           | **Unisat**                  | Crypto wallet                                |                             |
 | **Semiconductors**        | **Akhetonics**              | Photonic AI accelerator                      |                             |
