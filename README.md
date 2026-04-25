@@ -46,6 +46,7 @@ Deals: 61 - Exits: 12 (5 wins / 7 busts)
 |                           | **Chipiron**                | Mini MRIs                                    |                             |
 |                           | **Deciduous Therapeutics**  | Senolytics biotech                           |                             |
 |                           | **Enhanced Games**          | Biotech-enhanced sports events               |                             |
+|                           | **Agmgee**                  | AI-driven cancer therapy                     |                             |
 |                           | **Gilgamesh**               | Psychedelics biotech                         | Acquired by AbbieVie for $1.2b |
 |                           | **Glycanage**               | Longevity diagnostics                        |                             |
 |                           | **Kangaroo Bio**            | Artificial womb                              |                             |
@@ -64,6 +65,7 @@ Deals: 61 - Exits: 12 (5 wins / 7 busts)
 |                           | **Optimum**                 | Data availability layer                      |                             |
 |                           | **Sentient**                | Decentralized AI                             | Token listed ($SENT)        |
 |                           | **Space Computer**          | TEEs in space                                |                             |
+|                           | **TREX**                    | RWA protocol backed by Apex Group            |                             |
 |                           | **Unisat**                  | Crypto wallet                                |                             |
 | **Semiconductors**        | **Akhetonics**              | Photonic AI accelerator                      |                             |
 |                           | **C12 Quantum**             | Quantum computer                             |                             |
