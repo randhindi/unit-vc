@@ -50,6 +50,7 @@ Deals: 61 - Exits: 12 (5 wins / 7 busts)
 |                           | **Gilgamesh**               | Psychedelics biotech                         | Acquired by AbbieVie for $1.2b |
 |                           | **Glycanage**               | Longevity diagnostics                        |                             |
 |                           | **Kangaroo Bio**            | Artificial womb                              |                             |
+|                           | **Klothea Bio**             | mRNA vaccine to increase Klotho levels       |                             |
 |                           | **Lucis**                   | Longevity platform                           |                             |
 |                           | **Mindstate Design Labs**   | Biotech that programs emotions in humans     |                             |
 |                           | **Origin Genomics**         | Personalized gene therapy                    |                             |
