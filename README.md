@@ -31,54 +31,54 @@ Here is the performance to date. We only add to DPI when we sell our position fo
 Deals: 61 - Exits: 12 (5 wins / 7 busts)
 
 ## Some of our investments
-| **Category**              | **Company**                 | **Description**                              | **Exit**                    |
-|---------------------------|-----------------------------|----------------------------------------------|-----------------------------|                                          
-| **AI**                    | **Attention**               | AI for sales                                 |                             |
-|                           | **Blockfusion**             | AI datacenters powered by clean energy       |                             |
-|                           | **Brightside**              | LLM for cybersecurity                        |                             |
-|                           | **Deepset**                 | LLM as a service                             |                             |
-|                           | **Karavela**                | Foundation model for the brain               |                             |
-|                           | **Motif**                   | AI support                                   |                             |
-|                           | **Parable**                 | AI time management                           |                             |
-|                           | **Twin Labs**               | AI workflow automation                       |                             |
-| **Biotech / Medtech**     | **BE Therapeutics**         | Brain tissue replacement                     |                             |
-|                           | **Brink Therapeutics**      | Recombinase gene editing                     |                             |
-|                           | **Chipiron**                | Mini MRIs                                    |                             |
-|                           | **Deciduous Therapeutics**  | Senolytics biotech                           |                             |
-|                           | **Enhanced Games**          | Biotech-enhanced sports events               |                             |
-|                           | **Gamgee**                  | AI-driven cancer therapy                     |                             |
-|                           | **Gilgamesh**               | Psychedelics biotech                         | Acquired by AbbieVie for $1.2b |
-|                           | **Glycanage**               | Longevity diagnostics                        |                             |
-|                           | **Kangaroo Bio**            | Artificial womb                              |                             |
-|                           | **Klothea Bio**             | mRNA vaccine to increase Klotho levels       |                             |
-|                           | **Lucis**                   | Longevity platform                           |                             |
-|                           | **Mindstate Design Labs**   | Biotech that programs emotions in humans     |                             |
-|                           | **Origin Genomics**         | Personalized gene therapy                    |                             |
-|                           | **Terran Biosciences**      | Psychedelics biotech                         |                             |
-|                           | **Tomorrow Biostasis**      | Human cryopreservation                       |                             |
-| **Cryptography / Blockchain**| **Argent / Ready**       | Self-custodial bank                          |                             |
-|                           | **Bron**                    | Ultra secure MPC wallet                      | Token listed ($BRON)        |
-|                           | **Fhenix**                  | FHE coprocessors                             |                             |
-|                           | **Fractal Bitcoin**         | Bitcoin L2                                   | Token listed ($FB)          |
-|                           | **Giza**                    | zkML                                         | Token listed ($GIZA)        |
-|                           | **Kakarot**                 | zkEVM L2                                     | Acquired by Zama            | 
-|                           | **Modulus Labs**            | zkML                                         | Acquired by Worldcoin       |
-|                           | **Optimum**                 | Data availability layer                      |                             |
-|                           | **Sentient**                | Decentralized AI                             | Token listed ($SENT)        |
-|                           | **Space Computer**          | TEEs in space                                |                             |
-|                           | **TREX**                    | RWA protocol backed by Apex Group            |                             |
-|                           | **Unisat**                  | Crypto wallet                                |                             |
-| **Semiconductors**        | **Akhetonics**              | Photonic AI accelerator                      |                             |
-|                           | **C12 Quantum**             | Quantum computer                             |                             |
-|                           | **Corintis**                | High performance chip cooling                |                             |
-|                           | **Cornami**                 | FHE accelerator                              |                             |
-|                           | **Fabric Cryptosystems**    | ZK + FHE accelerator                         |                             |
-| **Network States**        | **Chateaushi**              | Onchain real estate network                  |                             |
-|                           | **Civic Stack**             | Network state OS                             |                             |
-|                           | **Onchain Cities**          | Network state OS                             |                             |
-|                           | **Praxis**                  | Network state                                |                             |
-|                           | **Vitalia**                 | Longevity network state                      |                             |
-| **Other**                 | **Interstellar Lab**        | Space farms                                  |                             |
-|                           | **Marathon Fusion**         | Fusion infrastructure                        |                             |
+| **Category**              | **Company**                 | **Description**                              | **Exit**                            |
+|---------------------------|-----------------------------|----------------------------------------------|-------------------------------------|                                          
+| **AI**                    | **Attention**               | AI for sales                                 |                                     |
+|                           | **Blockfusion**             | AI datacenters powered by clean energy       |                                     |
+|                           | **Brightside**              | LLM for cybersecurity                        |                                     |
+|                           | **Deepset**                 | LLM as a service                             |                                     |
+|                           | **Karavela**                | Foundation model for the brain               |                                     |
+|                           | **Motif**                   | AI support                                   |                                     |
+|                           | **Parable**                 | AI time management                           |                                     |
+|                           | **Twin Labs**               | AI workflow automation                       |                                     |
+| **Biotech / Medtech**     | **BE Therapeutics**         | Brain tissue replacement                     |                                     |
+|                           | **Brink Therapeutics**      | Recombinase gene editing                     |                                     |
+|                           | **Chipiron**                | Mini MRIs                                    |                                     |
+|                           | **Deciduous Therapeutics**  | Senolytics biotech                           |                                     |
+|                           | **Enhanced Games**          | Biotech-enhanced sports events               | SPAC ($ENHA) at $1.2b val           |
+|                           | **Gamgee**                  | AI-driven cancer therapy                     |                                     |
+|                           | **Gilgamesh**               | Psychedelics biotech                         | Acquired by AbbieVie for $1.2b      |
+|                           | **Glycanage**               | Longevity diagnostics                        |                                     |
+|                           | **Kangaroo Bio**            | Artificial womb                              |                                     |
+|                           | **Klothea Bio**             | mRNA vaccine to increase Klotho levels       |                                     |
+|                           | **Lucis**                   | Longevity platform                           |                                     |
+|                           | **Mindstate Design Labs**   | Biotech that programs emotions in humans     |                                     |
+|                           | **Origin Genomics**         | Personalized gene therapy                    |                                     |
+|                           | **Terran Biosciences**      | Psychedelics biotech                         |                                     |
+|                           | **Tomorrow Biostasis**      | Human cryopreservation                       |                                     |
+| **Cryptography / Blockchain**| **Argent / Ready**       | Self-custodial bank                          |                                     |
+|                           | **Bron**                    | Ultra secure MPC wallet                      | Token listed ($BRON)                |
+|                           | **Fhenix**                  | FHE coprocessors                             |                                     |
+|                           | **Fractal Bitcoin**         | Bitcoin L2                                   | Token listed ($FB)                  |
+|                           | **Giza**                    | zkML                                         | Token listed ($GIZA)                |
+|                           | **Kakarot**                 | zkEVM L2                                     | Acquired by Zama                    |         
+|                           | **Modulus Labs**            | zkML                                         | Acquired by Worldcoin               |
+|                           | **Optimum**                 | Data availability layer                      |                                     |
+|                           | **Sentient**                | Decentralized AI                             | Token listed ($SENT)                |
+|                           | **Space Computer**          | TEEs in space                                |                                     |
+|                           | **TREX**                    | RWA protocol backed by Apex Group            |                                     |
+|                           | **Unisat**                  | Crypto wallet                                |                                     |
+| **Semiconductors**        | **Akhetonics**              | Photonic AI accelerator                      |                                     |
+|                           | **C12 Quantum**             | Quantum computer                             |                                     |
+|                           | **Corintis**                | High performance chip cooling                |                                     |
+|                           | **Cornami**                 | FHE accelerator                              |                                     |
+|                           | **Fabric Cryptosystems**    | ZK + FHE accelerator                         |                                     |
+| **Network States**        | **Chateaushi**              | Onchain real estate network                  |                                     |
+|                           | **Civic Stack**             | Network state OS                             |                                     |
+|                           | **Onchain Cities**          | Network state OS                             |                                     |
+|                           | **Praxis**                  | Network state                                |                                     |
+|                           | **Vitalia**                 | Longevity network state                      |                                     |
+| **Other**                 | **Interstellar Lab**        | Space farms                                  |                                     |
+|                           | **Marathon Fusion**         | Fusion infrastructure                        |                                     |
 
 
