@@ -39,6 +39,7 @@ Deals: 61 - Exits: 12 (5 wins / 7 busts)
 |                           | **Brightside**              | LLM for cybersecurity                        |                                     |
 |                           | **Deepset**                 | LLM as a service                             |                                     |
 |                           | **Karavela**                | Foundation model for the brain               |                                     |
+|                           | **Kinetix**                 | AI video and 3D                              | Acquired by Runway                  |
 |                           | **Motif**                   | AI support                                   |                                     |
 |                           | **Parable**                 | AI time management                           |                                     |
 |                           | **Twin Labs**               | AI workflow automation                       |                                     |
